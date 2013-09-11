@@ -105,16 +105,4 @@ To use it, you can type `action cmd` + `space key` at a line start. like:
 ```
 ### This will create a h3 tag
 ```
-
-The following cmds are allowed: 
-
-- Headings: type 1~6 `#` at the line start
-- Unordered List: type `- ` or `* `
-- Ordered List: type `1. `
-- Code block: type **\`\`\`**
-- Block Quote: type `> `
-- Horizontal Rule: more than 3 `-`, `*`, `.` will create a `<hr />`, like `......`
-
-## 4. license
-
-Licensed under MIT.
+ 
